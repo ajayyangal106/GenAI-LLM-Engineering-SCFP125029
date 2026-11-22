@@ -1,6 +1,6 @@
-# GenAI & LLM Engineering — SCFP125030
+# GenAI & LLM Engineering — SCFP125029
 
-**Repository:** `GenAI_LLM_Engineering_SCFP125029`  
+**Repository:** `GenAI-LLM-Engineering-SCFP125029`  
 **GitHub owner:** [AjayYangal](https://github.com/ajayyangal106)  
 **Project ID:** `SCFP125029`
 
